@@ -1,8 +1,0 @@
-alias rm='rm -i'
-alias mv='mv -i'
-alias vi='vim'
-alias git='git clone'
-alias md='mkdir'
-alias rd='rmdir'
-alias ..='cd ..'
-alias html='cd /var/www/html'
